@@ -1,2 +1,2 @@
 # С++ продвинутый поток 2021-2022
-1. [Linux. Обзор базовых утилит. Bash. gcc, g++ (-O -o -std)](sems/sem-01.md)
+1. [# Linux. Utils. Bash. Vim.](sems/sem-01.md)
