@@ -1,1 +1,2 @@
-# cplusplus-advance-sem
+# С++ продвинутый поток 2021-2022
+1. Linux. Обзор базовых утилит. Bash. gcc, g++ (-O -o -std).
