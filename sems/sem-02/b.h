@@ -1,0 +1,1 @@
+void alert(const char*);
