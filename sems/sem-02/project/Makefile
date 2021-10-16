@@ -16,7 +16,7 @@ all: library main
 	$(LINK) -o alert library.so main.o
 
 library: 
-	$(CC) -shared $(CFLAGS) -D__OS__='"$(OS)"' library.cpp -o library.so
+	$(CC) -shared $(CFLAGS) library.cpp -o library.so
 
 main: 
 	$(CC) -c $(CFLAGS) main.cpp -o main.o

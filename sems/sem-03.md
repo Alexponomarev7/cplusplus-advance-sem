@@ -56,14 +56,3 @@ Amazon Web Services (AWS) — коммерческое публичное обл
 * git cherry-pick - перенести коммит из одной ветки в другую
 
 Существует 3 популярных открытых хостингов remote репозиториев: github, gitlab, bitbucket
-
-## VS Code
-
-В сравнении с другими популярными аналогами выделяется:
-* Простотой настройки remote developing
-* Легковесность
-* Большой магазин плагинов под разработку для различных языков, например, я в VS code пишу под C++, Python, Go, Rust
-
-Полезные ссылки: 
-* [Гайд по настройке remote developing](https://code.visualstudio.com/docs/remote/remote-overview)
-* [C++ developer pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)

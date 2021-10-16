@@ -2,6 +2,5 @@
 
 int main() {
   alert();
-
   return 0;
 }

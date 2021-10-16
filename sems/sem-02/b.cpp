@@ -1,7 +1,7 @@
 #include <iostream>
 
-static int x = 5;
+extern int x;
 
 void alert(const char* message) {
-    std::cout << "ALERT: " << message << '\n';
+    std::cout << "ALERT: " << x << " " << message << '\n';
 }

@@ -1,4 +1,8 @@
 #include "b.h"
+#include <vector>
+#include <string_view>
+#include <string>
+#include <optional>
 
 #ifdef TOKEN
     const char * token = TOKEN;
@@ -6,9 +10,14 @@
     const char * token = "hello world";
 #endif
 
-extern int x;
+int x = 5;
 
 int main() {
     alert(token);
-    return 0;
+	std::string y = "124";
+	std::string_view x = y;
+
+	std::optional<int> n = 5;
+
+	return 0;
 }

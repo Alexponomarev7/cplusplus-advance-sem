@@ -3,6 +3,7 @@
 #include <stdio.h>
 
 int check(int x) {
+	int* x = new int;
 	return x + 1 > x;
 }
 
