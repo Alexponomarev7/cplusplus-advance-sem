@@ -15,3 +15,12 @@ private:
     std::optional<std::function<std::string(std::string)>> transform_;
     std::queue<std::string> tokens_;
 };
+
+
+class Heap {
+public:
+    virtual void insert(int x) = 0;
+    virtual int get_max() = 0;
+};
+
+std::vector<int> heap_sort(const std::vector<int>& vec, Heap& heap);

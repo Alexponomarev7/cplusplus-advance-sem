@@ -282,4 +282,20 @@ CMakeFiles/main_test.dir/tests.cpp.o: \
   /usr/local/include/gtest/gtest-test-part.h \
   /usr/local/include/gtest/gtest_prod.h \
   /usr/local/include/gtest/gtest-typed-test.h \
-  /usr/local/include/gtest/gtest_pred_impl.h
+  /usr/local/include/gtest/gtest_pred_impl.h \
+  /usr/local/include/gmock/gmock.h \
+  /usr/local/include/gmock/gmock-actions.h \
+  /usr/local/include/gmock/internal/gmock-internal-utils.h \
+  /usr/local/include/gmock/internal/gmock-port.h \
+  /usr/local/include/gmock/internal/custom/gmock-port.h \
+  /usr/local/include/gmock/internal/gmock-pp.h \
+  /usr/local/include/gmock/gmock-cardinalities.h \
+  /usr/local/include/gmock/gmock-function-mocker.h \
+  /usr/local/include/gmock/gmock-spec-builders.h \
+  /usr/local/include/gmock/gmock-matchers.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/cmath \
+  /usr/local/include/gmock/internal/custom/gmock-matchers.h \
+  /usr/local/include/gmock/gmock-more-actions.h \
+  /usr/local/include/gmock/internal/custom/gmock-generated-actions.h \
+  /usr/local/include/gmock/gmock-more-matchers.h \
+  /usr/local/include/gmock/gmock-nice-strict.h

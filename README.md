@@ -5,7 +5,7 @@
 3. [Remote developing. Git.](sems/sem-03.md)
 4. [IDE. Cmake.](sems/sem-04.md)
 5. [Bash advanced.](sems/sem-05.md)
-6. [C-style.](sems/sem-06.md)
+6. [C-style.](sems/sem-06.md    )
 7. [OOP.](sems/sem-07.md)
 
 ## Hws
