@@ -71,6 +71,8 @@ func:
 
 TLDR;
 
+pretty-output std containers
+
 ## GDB stepping
 
 * s - сделать шаг исполнения программы
