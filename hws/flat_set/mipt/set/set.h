@@ -77,7 +77,7 @@ public:
         return *found == value;
     }
 
-    virtual bool erase(const T& value) {
+    bool erase(const T& value) {
         auto found = std::lower_bound(keys_.begin(), keys_.end(), value);
         if (found == keys_.end()) {
             return false;
